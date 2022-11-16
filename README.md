@@ -17,6 +17,6 @@ Skills: C | CPP | JAVA
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=walid123780) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walid123780&show_icons=true&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walid123780&theme=radical)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&layout=compact)](https://github.com/walid123780/github-readme-stats)
