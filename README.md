@@ -1,12 +1,15 @@
 # Ashik Billah Walid
+## About Me
+- 🌱 I’m currently learning Data Structure And Algorithms 
+- 💬 Ask me about Data Structure And Algorithms 
+- 
+## My Github Stats
+![Ashik Billah Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&theme=radical)
 
 ## My Stacks
 
 Languages: C | CPP | JAVA
 Frontend: HTML | CSS 
-
-- 🌱 I’m currently learning Data Structure And Algorithms 
-- 💬 Ask me about Data Structure And Algorithms 
 
 ## My Handles
 
@@ -14,7 +17,6 @@ Frontend: HTML | CSS
 
 ![Profile views](https://gpvc.arturio.dev/walid123780)  
 
-![Ashik Billah Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&theme=radical)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=walid123780)  
 
