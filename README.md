@@ -19,4 +19,4 @@ Skills: C | CPP | JAVA
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=walid123780)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&layout=compact)](https://github.com/walid123780/github-readme-stats)
