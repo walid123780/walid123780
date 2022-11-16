@@ -1,4 +1,3 @@
-# Ashik Billah Walid
 ## About Me
 
 - Study At University Of Asia Pacific
