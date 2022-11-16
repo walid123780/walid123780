@@ -15,6 +15,8 @@ Skills: C | CPP | JAVA
 
 ![Profile views](https://gpvc.arturio.dev/walid123780)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=walid123780)  
+
 [![Ashik Billah Walid's github activity graph](https://activity-graph.herokuapp.com/graph?username=walid123780&theme=dracula)](https://github.com/walid123780/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&layout=compact)](https://github.com/walid123780/github-readme-stats)
