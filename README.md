@@ -1,5 +1,4 @@
 ## Ashik Billah Walid
-![](https://media-exp1.licdn.com/dms/image/D5616AQFItn3mbktJhw/profile-displaybackgroundimage-shrink_350_1400/0/1665407455343?e=1674086400&v=beta&t=WoweaQd5p5QIrofPfZU6aWWYTtMrMYsdYpzIZpc0KH0)
 
 Skills: C | CPP | JAVA
 
