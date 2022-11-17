@@ -10,7 +10,8 @@
 
 ## My Stacks
 
-Languages: C | CPP | JAVA  <\n>
+Languages: C | CPP | JAVA 
+
 Frontend: HTML | CSS 
 
 ## My Handles
