@@ -7,13 +7,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid"/>
   
 ### My Stacks
-#### Languages: C++ | Python | Javascript | Typescript | Solidity 
+#### Languages: C++ | Python | Javascript 
 
-#### Frontend: HTML | CSS | React | NextJS | Tailwind
+#### Frontend: HTML | CSS | React
 
-#### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
-
-#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
+#### Backend: Python | FastAPI | Pandas 
 
 #### Others: Git | Docker | Latex | Linux | Vercel 
 
@@ -28,5 +26,5 @@
 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=right&width=40%)](https://github.com/walid123780/github-readme-stats)
-
+ 
 
