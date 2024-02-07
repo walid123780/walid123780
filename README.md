@@ -1,7 +1,5 @@
 ### About Me
 - [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
-- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
-- [youkn0wwho.academy](https://youkn0wwho.academy/)
 - [WA's Notes.com](https://www.notion.so/ashikbillahwalid/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a)
 
 ## My Github Stats
