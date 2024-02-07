@@ -23,12 +23,7 @@
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Ash_Walid) 
  [<img src="https://img.shields.io/badge/Atcoder-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://atcoder.jp/users/ashikbillahwalid) 
 
-![Profile views](https://gpvc.arturio.dev/walid123780)  
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=walid123780)  
-
-[![Ashik Billah Walid's github activity graph](https://activity-graph.herokuapp.com/graph?username=walid123780&theme=react-dark)](https://github.com/walid123780/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&layout=compact)](https://github.com/walid123780/github-readme-stats)
 
