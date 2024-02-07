@@ -13,9 +13,9 @@
 
 #### Frontend: HTML | CSS | React
 
-#### Backend: Python | FastAPI | Pandas 
+#### Backend: Python | Pandas 
 
-#### Others: Git | Docker | Latex | Linux 
+#### Others: Git | Latex | Linux 
 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=right&width=40%)](https://github.com/walid123780/github-readme-stats)
