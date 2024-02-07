@@ -3,9 +3,8 @@
 - [WA's Notes.com](https://www.notion.so/ashikbillahwalid/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a)
 - [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
 
-## My Github Stats
-![Ashik Billah Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&theme=radical)
-
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid" />
 ## My Stacks
 
 Languages: C | CPP | JAVA 
