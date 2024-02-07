@@ -4,12 +4,18 @@
 - [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid" />
-## My Stacks
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid"/>
+  
+### My Stacks
+#### Languages: C++ | Python | Javascript | Typescript | Solidity 
 
-Languages: C | CPP | JAVA 
+#### Frontend: HTML | CSS | React | NextJS | Tailwind
 
-Frontend: HTML | CSS 
+#### Backend: Python | FastAPI | PostgreSQL | JWT Auth | Pandas | Pydantic | Sentry | Redis | Pytest
+
+#### Blockchain/Smart Contracts: Solidity | Javascript | Typescript | Web3.js | Python | Web3.py | Remix | Hardhat | Moralis | Web3uikit | Ethers | Mocha | Chai | Waffle | ChainLink | Typechain | Alchemy | Infura | Ganache
+
+#### Others: Git | Docker | Latex | Linux | Vercel 
 
 ## My Handles
 
