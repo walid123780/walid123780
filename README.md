@@ -1,9 +1,8 @@
-## About Me
-
-- Study At University Of Asia Pacific
-- Competitive Programmer 
-- Newbie at CodeForces
-- learning Data Structure And Algorithms  
+### About Me
+- [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
+- [twitter/shahjalalsohag](https://twitter.com/shahjalalsohag)
+- [youkn0wwho.academy](https://youkn0wwho.academy/)
+- [blog.ashikbilahwalid.com](https://www.notion.so/ashikbillahwalid/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a)
 
 ## My Github Stats
 ![Ashik Billah Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&theme=radical)
