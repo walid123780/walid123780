@@ -2,7 +2,9 @@
 
 - [WA's Notes.com](https://www.notion.so/ashikbillahwalid/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a)
 - [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
-
+- [Facebook/AshikBillahWalid](https://www.facebook.com/profile.php?id=100004114126695)
+- [Instrgram/AshikBillahWalid](https://www.instagram.com/ashikabdullah_walid/)
+  
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid"/>
   
