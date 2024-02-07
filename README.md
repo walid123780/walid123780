@@ -18,7 +18,7 @@
 #### Others: Git | Docker | Latex | Linux 
 
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs]<p align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=right&width=40%)](https://github.com/walid123780/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=right&width=40%)](https://github.com/walid123780/github-readme-stats)
 
 ## My Handles
  [<img src="https://img.shields.io/badge/Ashik Billah Walid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
