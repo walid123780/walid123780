@@ -1,6 +1,6 @@
 ### About Me
 
-- [WA's Notes.com](https://www.notion.so/ashikbillahwalid/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a)
+- [WA's Notes.com](https://ashikbillahwalid.notion.site/The-Blog-of-Ashik-Billah-Walid-3f438fdbff8846829ee7a3cf5200a37a?pvs=4)
 - [linkedin/AshikBillahWalid](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
 - [Facebook/AshikBillahWalid](https://www.facebook.com/profile.php?id=100004114126695)
 - [Instrgram/AshikBillahWalid](https://www.instagram.com/ashikabdullah_walid/)
