@@ -9,11 +9,11 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid"/>
   
 ## My Stacks
-#### Languages: C++ | Python | Javascript 
+#### Languages: C | C++ | Python | Java | Javascript 
 
 #### Frontend: HTML | CSS | React
 
-#### Backend: Python | Pandas 
+#### Backend: Python | django | MySQL
 
 #### Others: Git | Linux 
 
