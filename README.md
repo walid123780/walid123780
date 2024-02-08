@@ -15,10 +15,8 @@
 
 #### Backend: Python | Pandas 
 
-#### Others: Git | Latex | Linux 
+#### Others: Git | Linux 
 
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=right&width=40%)](https://github.com/walid123780/github-readme-stats)
 
 ## My Handles
  [<img src="https://img.shields.io/badge/Ashik Billah Walid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
@@ -27,6 +25,7 @@
  [<img src="https://img.shields.io/badge/Atcoder-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://atcoder.jp/users/ashikbillahwalid) 
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walid123780&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walid123780&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
-
+<!--  TOP LANGUAGES STATISTICS -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walid123780&theme=dark&layout=compact&align=center&width=40%)](https://github.com/walid123780/github-readme-stats)
