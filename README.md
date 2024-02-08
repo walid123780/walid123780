@@ -11,9 +11,9 @@
 ## My Stacks
 #### Languages: C | C++ | Python | Java | Javascript 
 
-#### Frontend: HTML | CSS | React
-
 #### Backend: Python | django | MySQL
+
+#### Frontend: HTML | CSS | React
 
 #### Others: Git | Linux 
 
