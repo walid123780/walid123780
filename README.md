@@ -20,8 +20,8 @@
 
 ## My Handles
  [<img src="https://img.shields.io/badge/Ashik Billah Walid-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashik-billah-walid-334850241/)
- [<img src="https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/walid123780) 
- [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/Ash_Walid) 
+ [<img src="https://img.shields.io/badge/Github-151515?style=for-the-badge&logo=github&logoColor=white">](https://profile-summary-for-github.com/user/walid123780) 
+ [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=white">](https://codeforces.com/profile/Ash_Walid) 
  [<img src="https://img.shields.io/badge/Atcoder-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://atcoder.jp/users/ashikbillahwalid) 
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
