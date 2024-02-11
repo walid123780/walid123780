@@ -6,7 +6,7 @@
 - [Instrgram/AshikBillahWalid](https://www.instagram.com/ashikabdullah_walid/)
   
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=dark" alt="AshikBillahWalid"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=walid123780&show_icons=true&count_private=true&theme=white" alt="AshikBillahWalid"/>
   
 ## My Stacks
 #### Languages: C | C++ | Python | Java | Javascript 
