@@ -11,7 +11,7 @@
 ## My Stacks
 #### Languages: C | C++ | C# | Java | Javascript 
 
-#### Backend: MySQL
+#### Backend: MySQL | .NET
 
 #### Frontend: HTML
 
